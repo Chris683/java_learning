@@ -4,8 +4,6 @@
     <list default="true" id="216ee4c6-270f-4d50-a3ad-5befc4507b60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java基础/src/java_grammar.java" beforeDir="false" afterPath="$PROJECT_DIR$/java基础/src/java_grammar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础/helloword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础/java_grammar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础/java_grammar.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +19,11 @@
     <session id="890718261">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.4" value="5" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,13 +39,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="79" />
-          <entry key="java" value="1656" />
+          <entry key="java" value="2892" />
           <entry key="txt" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1656" />
+          <entry key="JAVA" value="2892" />
           <entry key="PLAIN_TEXT" value="50" />
           <entry key="VTL" value="79" />
         </counts>
@@ -58,10 +57,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java基础/src/java_grammar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="133" column="13" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="13" />
+            <state relative-caret-position="540">
+              <caret line="269" lean-forward="true" selection-start-line="269" selection-end-line="269" />
               <folding>
-                <element signature="e#0#2764#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,13 +132,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623247898225" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624105669593" />
     <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -159,9 +158,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TypeConversion">
+  <component name="RunManager" selected="Application.ShuRu">
     <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataType" />
+      <module name="java基础" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="java基础" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShuRu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShuRu" />
       <module name="java基础" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -174,26 +187,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="helloword (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloword" />
-      <module name="java基础" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="helloword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.helloword" />
-      <module name="javalearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="java_grammar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_grammar" />
       <module name="java基础" />
@@ -202,19 +195,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.helloword" />
-      <item itemvalue="Application.helloword (1)" />
       <item itemvalue="Application.java_grammar" />
       <item itemvalue="Application.TypeConversion" />
       <item itemvalue="Application.DataType" />
+      <item itemvalue="Application.ShuRu" />
+      <item itemvalue="Application.HelloWorld" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShuRu" />
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.TypeConversion" />
-        <item itemvalue="Application.DataType" />
         <item itemvalue="Application.java_grammar" />
-        <item itemvalue="Application.helloword (1)" />
-        <item itemvalue="Application.helloword" />
+        <item itemvalue="Application.DataType" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +226,10 @@
       <workItem from="1623118366413" duration="1701000" />
       <workItem from="1623125206969" duration="7975000" />
       <workItem from="1623162896796" duration="1042000" />
-      <workItem from="1623204643580" duration="17797000" />
+      <workItem from="1623204643580" duration="18087000" />
+      <workItem from="1623290669441" duration="1259000" />
+      <workItem from="1624084889190" duration="300000" />
+      <workItem from="1624085493742" duration="8218000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1623065564937</created>
@@ -284,17 +280,24 @@
       <option name="project" value="LOCAL" />
       <updated>1623161767753</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Java基础知识">
+      <created>1623249268278</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623249268278</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37706000" />
+    <option name="totallyTimeSpent" value="47773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="1041" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15574263" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12988575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -312,7 +315,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50030065" side_tool="true" weight="0.25227273" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32945284" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3284091" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -394,10 +397,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java基础/src/java_grammar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="133" column="13" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="13" />
+        <state relative-caret-position="540">
+          <caret line="269" lean-forward="true" selection-start-line="269" selection-end-line="269" />
           <folding>
-            <element signature="e#0#2764#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>

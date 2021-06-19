@@ -2,8 +2,10 @@
  * @author Chris
  * @create 2021-06-08-21:20
  */
+import java.util.Scanner;
 
 //1 Java特点
+
 /**
  * 简单性
  * 面向对象
@@ -136,3 +138,132 @@ class TypeConversion{
 三元运算符:(条件表达式)?表达式1：表达式2；
  */
 
+
+// 7 输入输出
+// Scanner用法
+// 导入包 import java.util.Scanner
+// 实例化：Scanner scan = new Scanner(System.in);
+// 调用Scanner类的相关方法获取指定类型
+class ShuRu{
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        System.out.println("姓名：");
+        String name = scan.next();
+        System.out.println(name);
+
+        System.out.println("年龄");
+        int age =scan.nextInt();
+        System.out.println(age);
+
+        System.out.println("体重");
+        double weight = scan.nextDouble();
+        System.out.println(weight);
+
+        double x = 1000/3.0;
+        int a = 1235;
+        String he = "hello word";
+        System.out.println(a);
+        System.out.println(x);
+        System.out.printf("%d",a);
+        System.out.println();
+        System.out.printf("%d",a);
+        System.out.println();
+        System.out.printf("%x",a);
+        System.out.println();
+        System.out.printf("%s",he);
+        System.out.println();
+        //System.out.printf("%d",x);
+        System.out.printf("%8.2f",x);
+        System.out.println();
+        System.out.printf("%,.2f",x);
+        System.out.println();
+
+    }
+}
+
+// 流程控制
+class HelloWorld {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        System.out.println("输入成绩：");
+        int score = scan.nextInt();
+
+        // if...else
+        if (score>90){
+            System.out.println("A");
+        } else if (90 >= score && score>80){
+            System.out.println("B");
+        }else if (80 >= score && score>70){
+            System.out.println("C");
+        }else if (70 >= score && score>60){
+            System.out.println("D");
+        }else {
+            System.out.println("不及格");
+        }
+
+        int day = 4;
+
+        //switch
+        switch(day){
+            case 1:
+                System.out.println("星期一");
+                break;
+            case 2:
+                System.out.println("星期二");
+                break;
+            case 3:
+                System.out.println("星期三");
+                break;
+            case 4:
+                System.out.println("星期四");
+                break;
+            case 5:
+                System.out.println("星期五");
+                break;
+            case 6:
+                System.out.println("星期六");
+                break;
+            case 7:
+                System.out.println("星期天");
+                break;
+            default:
+                System.out.println("这个是什么鬼？");
+        }
+
+        // while
+        int number = 1;
+        while (number<=7){
+            System.out.println(number);
+            number++;
+        }
+        // do while
+        do{
+            System.out.println(number);
+            number++;
+        }while (number<=7);
+
+        // for
+        for (int i = 0; i <7 ; i++) {
+            System.out.println(i);
+        }
+        // continue
+        for (int j = 1; j < 10; j++) {
+            if(0==j%2)
+                continue; //如果是双数，后面的代码不执行，直接进行下一次循环
+
+            System.out.println(j);
+        }
+        // break
+        for (int j = 1; j < 10; j++) {
+            if(0==j%2)
+                break; //如果是双数，结束当前循环
+
+            System.out.println(j);
+        }
+
+    }
+}
+
+// 数组
