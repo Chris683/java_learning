@@ -182,7 +182,7 @@ class ShuRu{
     }
 }
 
-// 流程控制
+// 8 流程控制
 class HelloWorld {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -266,4 +266,31 @@ class HelloWorld {
     }
 }
 
-// 数组
+// 9 数组
+
+class ShuZu{
+    public static void main(String[] args) {
+        // 9.1 声明和初始化
+        int[] num;                                    //声明
+        num = new int[]{1,2,3,4,5,6,7};               //静态初始化
+        String[] names = new String[5];               //动态初始化
+
+        //9.2 赋值
+        names[0] = "xiaoming";                        //赋值
+        names[1] = "nihao";
+        names[2] = "wu";
+        names[3] = "ni";
+        names[4] = "hjk";
+
+        //9.3 数组长度
+        System.out.println(names.length);
+        System.out.println(num.length);
+
+        //9.4 遍历数组
+        for (int i = 0; i <names.length ; i++) {
+            System.out.println(names[i]);
+        }
+
+
+    }
+}
