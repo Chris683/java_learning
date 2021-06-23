@@ -24,7 +24,7 @@ import java.util.Scanner;
 // 2.1 public class 后面采用的类名和文件名保持一样，一个Java程序里面只有一个public class；
 // 2.2 class后面类名必须以字母开头，后面可以跟字母和数字的任意组合；
 // 2.3 System.out.println（）输出数据后换行；  System.out.print()输出数据；
-public class java_grammar {
+class HelloWord {
     public static void main(String[] args) {
         System.out.println("hello word!");
         System.out.print("hello");
@@ -267,7 +267,6 @@ class HelloWorld {
 }
 
 // 9 数组
-
 class ShuZu{
     public static void main(String[] args) {
         // 9.1 声明和初始化
@@ -291,6 +290,25 @@ class ShuZu{
             System.out.println(names[i]);
         }
 
+        //9.5 二维数组
+        int[][] arr = new int[][]{{1,2},{3,4,5},{6,7}};
+        int[][] arr1 = new int[3][2];
+
+        //9.6 调用二维数组元素
+        System.out.println(arr[0][1]);
+        System.out.println(arr1[0][1]);
+
+        //9.7 二维数组的长度
+        System.out.println(arr.length);
+        System.out.println(arr[0].length);
+        System.out.println(arr[1].length);
+
+        //9.8  二维数组遍历
+        for (int i = 0; i <arr.length ; i++) {
+            for (int j = 0; j <arr[i].length ; j++) {
+                System.out.print(arr[i][j]);
+            }
+        }
 
     }
 }
