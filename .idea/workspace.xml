@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="216ee4c6-270f-4d50-a3ad-5befc4507b60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/YangHuiSanJiiao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java基础/src/java_grammar.java" beforeDir="false" afterPath="$PROJECT_DIR$/java基础/src/java_grammar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础/java_grammar.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,27 +31,27 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="27" />
+          <entry key="java" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="79" />
-          <entry key="java" value="4356" />
-          <entry key="txt" value="84" />
+          <entry key="java" value="4685" />
+          <entry key="txt" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4356" />
-          <entry key="PLAIN_TEXT" value="84" />
+          <entry key="JAVA" value="4685" />
+          <entry key="PLAIN_TEXT" value="97" />
           <entry key="VTL" value="79" />
         </counts>
       </usages-collector>
@@ -64,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project01/src/Utility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="-1208">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -83,10 +81,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/YangHuiSanJiiao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java基础/src/java_grammar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-178">
-              <caret line="268" column="7" selection-start-line="268" selection-start-column="7" selection-end-line="268" selection-end-column="7" />
+            <state relative-caret-position="-2266">
+              <caret line="179" column="29" selection-start-line="179" selection-start-column="29" selection-end-line="179" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -120,6 +127,7 @@
         <option value="$PROJECT_DIR$/Project01/src/Utility.java" />
         <option value="$PROJECT_DIR$/Project01/src/FamilyAccount.java" />
         <option value="$PROJECT_DIR$/java基础/src/java_grammar.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/YangHuiSanJiiao.java" />
       </list>
     </option>
   </component>
@@ -156,6 +164,22 @@
               <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="javalearning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
+              <item name="Project01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
+              <item name="Project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -167,7 +191,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624454724892" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624458763900" />
     <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -186,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWord">
+  <component name="RunManager" selected="Application.YangHuiSanJiiao">
     <configuration name="FamilyAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FamilyAccount" />
       <module name="Project01" />
@@ -201,16 +225,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuRu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShuRu" />
+    <configuration name="ShuZu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShuZu" />
       <module name="java基础" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuZu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShuZu" />
-      <module name="java基础" />
+    <configuration name="YangHuiSanJiiao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YangHuiSanJiiao" />
+      <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -233,19 +257,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ShuRu" />
       <item itemvalue="Cucumber java.All Features in: Project1" />
       <item itemvalue="Application.FamilyAccount" />
       <item itemvalue="Application.ShuZu" />
       <item itemvalue="Application.HelloWord" />
+      <item itemvalue="Application.YangHuiSanJiiao" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWord" />
+        <item itemvalue="Application.YangHuiSanJiiao" />
         <item itemvalue="Application.ShuZu" />
+        <item itemvalue="Application.HelloWord" />
         <item itemvalue="Application.FamilyAccount" />
         <item itemvalue="Cucumber java.All Features in: Project1" />
-        <item itemvalue="Application.ShuRu" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +296,7 @@
       <workItem from="1624285486693" duration="324000" />
       <workItem from="1624364167419" duration="885000" />
       <workItem from="1624367056841" duration="3946000" />
-      <workItem from="1624435620332" duration="3696000" />
+      <workItem from="1624435620332" duration="7197000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1623065564937</created>
@@ -351,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624371285935</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="java grammar">
+      <created>1624454983350</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1624454983350</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -360,12 +391,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61350000" />
+    <option name="totallyTimeSpent" value="64851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="1041" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13589898" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13589898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -374,7 +406,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49969932" visible="true" weight="0.14318182" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49969932" visible="true" weight="0.33863637" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,7 +441,8 @@
     <MESSAGE value="java循环结构" />
     <MESSAGE value="FamilyAccount" />
     <MESSAGE value="shuzu" />
-    <option name="LAST_COMMIT_MESSAGE" value="shuzu" />
+    <MESSAGE value="java grammar" />
+    <option name="LAST_COMMIT_MESSAGE" value="java grammar" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
@@ -475,10 +508,20 @@
     <entry file="file://$PROJECT_DIR$/out/production/Project1/FmilyAccount.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/java基础/src/java_grammar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2266">
+          <caret line="179" column="29" selection-start-line="179" selection-start-column="29" selection-end-line="179" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Project01/src/Utility.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="-1208">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -492,13 +535,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java基础/src/java_grammar.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/YangHuiSanJiiao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-178">
-          <caret line="268" column="7" selection-start-line="268" selection-start-column="7" selection-end-line="268" selection-end-column="7" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
         </state>
       </provider>
     </entry>

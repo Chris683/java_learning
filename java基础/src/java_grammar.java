@@ -183,7 +183,7 @@ class ShuRu{
 }
 
 // 8 流程控制
-class HelloWorld {
+class LiuChenKongZhi {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
@@ -308,7 +308,13 @@ class ShuZu{
             for (int j = 0; j <arr[i].length ; j++) {
                 System.out.print(arr[i][j]);
             }
+            System.out.println();
         }
+
+        // 9.9二维数组初始值
+        System.out.println(arr1[0]);
+        System.out.println(arr1[0][0]);
+
 
     }
 }
