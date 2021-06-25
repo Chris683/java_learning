@@ -318,3 +318,11 @@ class ShuZu{
 
     }
 }
+
+class pin{
+    public static void main(String[] args) {
+        int a;
+        a = (int) (3.9);
+        System.out.println(a);
+    }
+}
