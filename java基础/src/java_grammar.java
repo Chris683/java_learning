@@ -303,6 +303,7 @@ class ShuZu{
         System.out.println(arr[0].length);
         System.out.println(arr[1].length);
 
+
         //9.8  二维数组遍历
         for (int i = 0; i <arr.length ; i++) {
             for (int j = 0; j <arr[i].length ; j++) {
