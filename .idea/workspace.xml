@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="216ee4c6-270f-4d50-a3ad-5befc4507b60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/DichotomousSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/src/offer4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/src/offer05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java基础/src/java_grammar.java" beforeDir="false" afterPath="$PROJECT_DIR$/java基础/src/java_grammar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指offer/src/offer4.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指offer/src/offer4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,38 +20,39 @@
     <session id="890718261">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="10" />
           <entry key="project.open.time.5" value="5" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="51" />
+          <entry key="java" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="51" />
+          <entry key="JAVA" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="79" />
-          <entry key="java" value="6833" />
-          <entry key="txt" value="128" />
+          <entry key="java" value="6948" />
+          <entry key="txt" value="135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6833" />
-          <entry key="PLAIN_TEXT" value="128" />
+          <entry key="JAVA" value="6948" />
+          <entry key="PLAIN_TEXT" value="135" />
           <entry key="VTL" value="79" />
         </counts>
       </usages-collector>
@@ -66,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/src/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="242">
               <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -78,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm/src/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="19" column="41" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="19" selection-end-column="41" />
+            <state relative-caret-position="418">
+              <caret line="19" column="41" selection-start-line="18" selection-start-column="8" selection-end-line="19" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -87,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm/src/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="880">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -97,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/Algorithm/src/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -106,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/Algorithm/src/DichotomousSearch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="21" />
+              <caret line="11" column="21" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -114,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java基础/src/java_grammar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="304" lean-forward="true" selection-start-line="304" selection-end-line="304" />
+            <state relative-caret-position="5360">
+              <caret line="304" selection-start-line="304" selection-end-line="304" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -124,10 +121,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指offer/src/offer05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指offer/src/offer4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -172,6 +181,7 @@
         <option value="$PROJECT_DIR$/Algorithm/src/QuickSort.java" />
         <option value="$PROJECT_DIR$/java基础/src/java_grammar.java" />
         <option value="$PROJECT_DIR$/剑指offer/src/offer4.java" />
+        <option value="$PROJECT_DIR$/剑指offer/src/offer05.java" />
       </list>
     </option>
   </component>
@@ -246,7 +256,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624630820426" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624714461650" />
     <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -265,16 +275,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShuZu">
+  <component name="RunManager" selected="Cucumber java.All Features in: src">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DichotomousSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DichotomousSearch" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -301,20 +304,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All Features in: src" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/剑指offer/src" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="剑指offer" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.DichotomousSearch" />
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.ShuZu" />
+      <item itemvalue="Cucumber java.All Features in: src" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.All Features in: src" />
         <item itemvalue="Application.ShuZu" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.DichotomousSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +363,8 @@
       <workItem from="1624367056841" duration="3946000" />
       <workItem from="1624435620332" duration="7275000" />
       <workItem from="1624505583379" duration="7572000" />
-      <workItem from="1624587976496" duration="16079000" />
+      <workItem from="1624587976496" duration="16107000" />
+      <workItem from="1624676467797" duration="3488000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1623065564937</created>
@@ -450,22 +471,32 @@
       <option name="project" value="LOCAL" />
       <updated>1624595154180</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="offer04">
+      <created>1624633163239</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1624633163239</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="All_Features_in__Project1 - 2021.06.21 at 21h 24m 33s.xml">
       <configuration name="All Features in: Project1" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="All_Features_in__src - 2021.06.26 at 20h 16m 56s.xml">
+      <configuration name="All Features in: src" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88580000" />
+    <option name="totallyTimeSpent" value="92096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="1041" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1389056" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14070956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -474,7 +505,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49969932" visible="true" weight="0.33863637" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49969932" weight="0.33863637" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -543,7 +574,8 @@
     <MESSAGE value="yanghuisanjiao" />
     <MESSAGE value="offer03" />
     <MESSAGE value="huixingshu" />
-    <option name="LAST_COMMIT_MESSAGE" value="huixingshu" />
+    <MESSAGE value="offer04" />
+    <option name="LAST_COMMIT_MESSAGE" value="offer04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -675,7 +707,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="242">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -683,38 +715,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/DichotomousSearch.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="418">
+          <caret line="19" column="41" selection-start-line="18" selection-start-column="8" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/src/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/DichotomousSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="41" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="242">
+          <caret line="11" column="21" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java基础/src/java_grammar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="304" lean-forward="true" selection-start-line="304" selection-end-line="304" />
+        <state relative-caret-position="5360">
+          <caret line="304" selection-start-line="304" selection-end-line="304" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -723,8 +755,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/src/offer4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/src/offer05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

@@ -18,6 +18,7 @@ import java.util.Scanner;
  * 12 13 14 5
  * 11 16 15 6
  * */
+
 class RectangleTest1 {
 
     public static void main(String[] args) {
