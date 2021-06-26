@@ -18,9 +18,9 @@ import java.util.Arrays;
 // 方法1  时间O(nlogn)了，空间O(1)
 class Solution {
     public int findRepeatNumber(int[] nums) {
-        Arrays.sort(nums);
+        Arrays.sort(nums);                       // 排序
         int i;
-        for(i=0; i < nums.length-1; i++){
+        for(i=0; i < nums.length-1; i++){        // 从小到大，依次寻找
             if(nums[i]==nums[i+1])
                 return nums[i];
         }
@@ -32,8 +32,8 @@ class Solution {
 // 方法2 时间O(n)，空间O（n）
 class Solution2 {
     public int findRepeatNumber(int[] nums) {
-        int arr[] = new int[nums.length];
-        for(int i=0; i<nums.length; i++){
+        int arr[] = new int[nums.length];              // 新建一个数组
+        for(int i=0; i<nums.length; i++){              // 充分应用到“数组 nums 里的所有数字都在 0～n-1 的范围内”
             arr[nums[i]]++;
             if(arr[nums[i]]>1)
                 return nums[i];

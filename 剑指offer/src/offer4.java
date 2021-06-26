@@ -22,10 +22,10 @@
 // 方法一：时间复杂度O(nm)，空间复杂度O(1)
 class offer04{
     public boolean findNumberIn2DArray(int[][] matrix, int target) {
-        if(matrix == null || matrix.length == 0) {
+        if(matrix == null || matrix.length == 0) {                     // 判断数组是否为空
             return false;
         }
-        for(int k=0;k<matrix.length;k++){
+        for(int k=0;k<matrix.length;k++){                              // 两个for循环，暴力查找
             for(int l=0;l<matrix[0].length;l++){
                 if(target==matrix[k][l]){
                     return true;
@@ -40,19 +40,19 @@ class offer04{
 // 方法2 时间复杂度：O(n+m) 空间复杂度：O(1)
 class offer0402 {
     public boolean findNumberIn2DArray(int[][] matrix, int target) {
-        if(matrix == null || matrix.length == 0) {
+        if(matrix == null || matrix.length == 0) {                   // 判断数组是否为空
             return false;
         }
-        int n = matrix.length;
-        int m = matrix[0].length;
+        int n = matrix.length;                                       // 数组的行
+        int m = matrix[0].length;                                    // 数组的列
         int i = 0;
         int j = m-1;
-        while(i<n && j>=0){
-            if(matrix[i][j]==target){
+        while(i<n && j>=0){                                          // 从数组的右上角开始matrix[0][m-1]，判断和target的关系，
+            if(matrix[i][j]==target){                                // 相等
                 return true;
-            }else if(matrix[i][j]>target){
+            }else if(matrix[i][j]>target){                           // 大于目标值target，则数组元素左移，即j--
                 j--;
-            }else{
+            }else{                                                   // 小于目标值target，则数组元素下移动，即i++；
                 i++;
             }
         }
