@@ -18,7 +18,7 @@ class Solution {
         for(i=0; i<nums.length-1;i++)
             for(j=i+1;j<nums.length;j++)
                 if(target==nums[i] + nums[j])
-                    return new int[] {i,j};
+                    return new int[]{i,j};
         return new int[] {};
     }
 }
