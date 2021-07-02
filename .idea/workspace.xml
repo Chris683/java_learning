@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="216ee4c6-270f-4d50-a3ad-5befc4507b60" name="Default Changelist" comment="20210702">
+    <list default="true" id="216ee4c6-270f-4d50-a3ad-5befc4507b60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,13 +45,13 @@
           <entry key="dummy" value="3" />
           <entry key="ft" value="79" />
           <entry key="java" value="8984" />
-          <entry key="txt" value="160" />
+          <entry key="txt" value="163" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="8984" />
-          <entry key="PLAIN_TEXT" value="163" />
+          <entry key="PLAIN_TEXT" value="166" />
           <entry key="VTL" value="79" />
         </counts>
       </usages-collector>
@@ -351,7 +351,7 @@
       <workItem from="1625147262499" duration="3433000" />
       <workItem from="1625150742151" duration="641000" />
       <workItem from="1625194064641" duration="1130000" />
-      <workItem from="1625195212365" duration="786000" />
+      <workItem from="1625195212365" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1623065564937</created>
@@ -493,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625194913800</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2021070201">
+      <created>1625197077591</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1625197077591</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -505,7 +512,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129811000" />
+    <option name="totallyTimeSpent" value="130057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="1041" extended-state="6" />
@@ -526,8 +533,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50030065" side_tool="true" visible="true" weight="0.25227273" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49729404" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50270593" side_tool="true" visible="true" weight="0.25227273" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3284091" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -593,7 +600,8 @@
     <MESSAGE value="20210626" />
     <MESSAGE value="20210629" />
     <MESSAGE value="20210702" />
-    <option name="LAST_COMMIT_MESSAGE" value="20210702" />
+    <MESSAGE value="2021070201" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021070201" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/剑指offer/src/offer10.java" />
