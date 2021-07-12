@@ -11,9 +11,7 @@ public class Customer {
     private String phone;// 电话号码
     private String email;// 电子邮箱
 
-    public String getName(){
-        return name;
-    }
+    public String getName(){ return name; }
 
     public void setName(String name) {
         this.name = name;
