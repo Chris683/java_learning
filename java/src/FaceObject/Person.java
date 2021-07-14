@@ -16,13 +16,13 @@ package FaceObject;
  *
  * 二者的关系：对象，是由类new出来的，派生出来的
  */
-public class Person {
+class Person1 {
     //属性
     String name;
     int age = 1;
 
     // 构造器
-    public Person(){
+    public Person1(){
     }
 
     //方法
@@ -43,7 +43,7 @@ public class Person {
 
 class PersonText{
     public static void main(String[] args) {
-        Person p =new Person();               // 构建对象
+        Person1 p =new Person1();               // 构建对象
         p.name = "chris";                     // 通过对象.属性，对象.方法调用对象结构
         System.out.println(p.name);
         System.out.println(p.age);

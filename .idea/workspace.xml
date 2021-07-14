@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="216ee4c6-270f-4d50-a3ad-5befc4507b60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/AttributeOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/AttributeTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Block1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Block2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Block3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Constructor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Constructor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Methods1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Methods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Methods3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Methods4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Methods5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/FaceObject/Methods6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project02/src/customerinformationmanagement/bean/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project02/src/customerinformationmanagement/bean/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/FaceObject/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/FaceObject/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,40 +32,40 @@
     <session id="890718261">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="15" />
-          <entry key="project.open.time.5" value="11" />
+          <entry key="project.open.time.5" value="12" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
           <entry key="iml" value="2" />
-          <entry key="java" value="178" />
+          <entry key="java" value="191" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="178" />
+          <entry key="JAVA" value="191" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
           <entry key="ft" value="79" />
-          <entry key="java" value="10716" />
-          <entry key="txt" value="172" />
+          <entry key="java" value="10805" />
+          <entry key="txt" value="185" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10716" />
-          <entry key="PLAIN_TEXT" value="175" />
+          <entry key="JAVA" value="10805" />
+          <entry key="PLAIN_TEXT" value="188" />
           <entry key="VTL" value="79" />
         </counts>
       </usages-collector>
@@ -63,84 +74,107 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/offer/Offer03.java">
+        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Methods5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            <state relative-caret-position="425">
+              <caret line="74" column="1" lean-forward="true" selection-start-line="44" selection-end-line="81" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basicgrammar/DataType.java">
+        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Methods6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1166">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="425">
+              <caret line="74" column="14" selection-start-line="17" selection-end-line="80" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project02/src/customerinformationmanagement/bean/Customer.java">
+        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Constructor1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project02/src/customerinformationmanagement/service/CustomerList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="44" column="42" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project02/src/customerinformationmanagement/ui/CustomerView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3696">
-              <caret line="170" column="23" selection-start-line="170" selection-start-column="23" selection-end-line="170" selection-end-column="23" />
+            <state relative-caret-position="242">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
+                <element signature="e#967#968#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project02/src/customerinformationmanagement/util/CMUtility.java">
+        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Constructor2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="535">
+              <caret line="38" column="1" lean-forward="true" selection-start-line="16" selection-end-line="38" selection-end-column="1" />
               <folding>
-                <element signature="e#2190#2191#0" expanded="true" />
-                <element signature="e#2239#2240#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Person.java">
+        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Block1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-235">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="814">
+              <caret line="46" column="8" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
               <folding>
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#1613#1614#0" expanded="true" />
+                <element signature="e#1653#1654#0" expanded="true" />
+                <element signature="e#1698#1699#0" expanded="true" />
+                <element signature="e#1766#1767#0" expanded="true" />
+                <element signature="e#1797#1798#0" expanded="true" />
+                <element signature="e#1844#1845#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Block2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Block3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/AttributeOne.java">
+        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/InnerClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+            <state relative-caret-position="132">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="e#1010#1011#0" expanded="true" />
+                <element signature="e#1052#1053#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,19 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithm/src/javalearning/algorithm/offer/offer05.java" />
-        <option value="$PROJECT_DIR$/剑指offer/src/offer10.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/javalearning/algorithm/offer/offer10.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/javalearning/algorithm/offer/offer11.java" />
-        <option value="$PROJECT_DIR$/剑指offer/src/offer11.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/javalearning/algorithm/offer/offer14.java" />
-        <option value="$PROJECT_DIR$/剑指offer/src/offer14.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/javalearning/algorithm/offer/offer17.java" />
-        <option value="$PROJECT_DIR$/剑指offer/src/offer17.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/leetcode/leetcode01.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/TwoSum.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/offer/offer03.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/offer/offer04.java" />
         <option value="$PROJECT_DIR$/java基础/src/offer/offer04.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/offer/offer05.java" />
         <option value="$PROJECT_DIR$/java基础/src/offer/offer05.java" />
@@ -213,8 +234,21 @@
         <option value="$PROJECT_DIR$/Project02/src/customerinformationmanagement/service/CustomerList.java" />
         <option value="$PROJECT_DIR$/Project02/src/customerinformationmanagement/ui/CustomerView.java" />
         <option value="$PROJECT_DIR$/Project02/src/customerinformationmanagement/bean/Customer.java" />
-        <option value="$PROJECT_DIR$/java/src/FaceObject/Person.java" />
         <option value="$PROJECT_DIR$/java/src/FaceObject/AttributeOne.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/AttributeTwo.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Methods1.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Methods2.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Methods3.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Methods4.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Methods5.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Methods6.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Constructor1.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Person.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Constructor2.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Block1.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Block2.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/Block3.java" />
+        <option value="$PROJECT_DIR$/java/src/FaceObject/InnerClass.java" />
       </list>
     </option>
   </component>
@@ -244,6 +278,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -263,29 +298,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FaceObject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="Project02" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626103567335" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626268741633" />
     <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -313,9 +335,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AttributeOne">
-    <configuration name="AttributeOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FaceObject.AttributeOne" />
+  <component name="RunManager" selected="Application.InnerClassTest">
+    <configuration name="BlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FaceObject.BlockTest" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -327,28 +349,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="customerinformationmanagement.ui.CustomerView" />
-      <module name="Project02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="customerinformationmanagement.ui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FamilyAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FamilyAccount" />
-      <module name="Project01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FaceObject.PersonText" />
+    <configuration name="InnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FaceObject.InnerClassTest" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -360,12 +362,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuZu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicgrammar.ShuZu" />
+    <configuration name="LeafTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FaceObject.LeafTest" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicgrammar.*" />
+          <option name="PATTERN" value="FaceObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FaceObject.PersonTest" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FaceObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Son" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FaceObject.Son" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FaceObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,19 +402,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ShuZu" />
-      <item itemvalue="Application.FamilyAccount" />
-      <item itemvalue="Application.CustomerView" />
-      <item itemvalue="Application.PersonText" />
-      <item itemvalue="Application.AttributeOne" />
+      <item itemvalue="Application.PersonTest" />
+      <item itemvalue="Application.BlockTest" />
+      <item itemvalue="Application.LeafTest" />
+      <item itemvalue="Application.Son" />
+      <item itemvalue="Application.InnerClassTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AttributeOne" />
-        <item itemvalue="Application.PersonText" />
-        <item itemvalue="Application.CustomerView" />
-        <item itemvalue="Application.FamilyAccount" />
-        <item itemvalue="Application.ShuZu" />
+        <item itemvalue="Application.InnerClassTest" />
+        <item itemvalue="Application.Son" />
+        <item itemvalue="Application.LeafTest" />
+        <item itemvalue="Application.BlockTest" />
+        <item itemvalue="Application.PersonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +457,8 @@
       <workItem from="1625456321502" duration="3654000" />
       <workItem from="1625535361505" duration="1797000" />
       <workItem from="1625640742946" duration="1435000" />
-      <workItem from="1626080218853" duration="3645000" />
+      <workItem from="1626080218853" duration="4706000" />
+      <workItem from="1626250757509" duration="8638000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1623065564937</created>
@@ -585,7 +614,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625221018841</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="面对对象">
+      <created>1626103892018</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1626103892018</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -597,13 +633,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150922000" />
+    <option name="totallyTimeSpent" value="160621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="1041" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16716777" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19362597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -612,7 +647,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49969932" visible="true" weight="0.23295455" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49969932" visible="true" weight="0.23295455" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -688,34 +723,10 @@
     <MESSAGE value="20210702" />
     <MESSAGE value="2021070201" />
     <MESSAGE value="project02" />
-    <option name="LAST_COMMIT_MESSAGE" value="project02" />
+    <MESSAGE value="面对对象" />
+    <option name="LAST_COMMIT_MESSAGE" value="面对对象" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/TwoSum.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/offer.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/offer/offer.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/HuiXingShu.java" />
-    <entry file="file://$PROJECT_DIR$/java基础/src/offer/offer04.java" />
-    <entry file="file://$PROJECT_DIR$/java基础/src/offer/offer05.java" />
-    <entry file="file://$PROJECT_DIR$/java基础/src/offer/offer10.java" />
-    <entry file="file://$PROJECT_DIR$/java基础/src/offer/offer03.java" />
-    <entry file="file://$PROJECT_DIR$/java基础/src/offer/offer11.java" />
-    <entry file="file://$PROJECT_DIR$/java基础/src/offer/offer14.java" />
-    <entry file="file://$PROJECT_DIR$/java基础/src/offer/offer17.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/offer/Offer14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/offer/Offer11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/src/offer/Offer10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -895,7 +906,7 @@
     <entry file="file://$PROJECT_DIR$/Project02/src/customerinformationmanagement/util/CMUtility.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding>
             <element signature="e#2190#2191#0" expanded="true" />
             <element signature="e#2239#2240#0" expanded="true" />
@@ -905,19 +916,154 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-235">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-131">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/FaceObject/AttributeOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+        <state relative-caret-position="484">
+          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/AttributeTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Methods1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="55" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Methods2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Methods4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Methods3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="31" />
+          <folding>
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Methods6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="74" column="14" selection-start-line="17" selection-end-line="80" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Methods5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="74" column="1" lean-forward="true" selection-start-line="44" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Constructor1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Constructor2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="16" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Block1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="46" column="8" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+          <folding>
+            <element signature="e#1613#1614#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#1698#1699#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1797#1798#0" expanded="true" />
+            <element signature="e#1844#1845#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Block2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Block3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/FaceObject/InnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
