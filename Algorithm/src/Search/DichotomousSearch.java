@@ -1,5 +1,6 @@
 package Search;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 /**
@@ -11,13 +12,18 @@ import java.util.Scanner;
 public class DichotomousSearch {
     public static void main(String[] args) {
         int[] arr = new int[]{-12, 12, 13, 17, 19, 20, 52, 75, 123};
+        Scanner scan = new Scanner(System.in);
+        System.out.println("请输入要查找的数：");
+        int number = scan.nextInt();
+        Arrays.sort(arr);
+        rank(number,arr);
+
+    }
+    public static int rank(int number,int[] arr){
         int head = 0;
         int end = arr.length-1;
         int mid;
         boolean isFlag = true;
-        Scanner scan = new Scanner(System.in);
-        System.out.println("请输入要查找的数：");
-        int number = scan.nextInt();
         while (head <= end){
             mid = (head + end)/2;
             if (number == arr[mid]){
@@ -33,10 +39,7 @@ public class DichotomousSearch {
         if (isFlag){
             System.out.println("没有找到指定元素");
         }
+        return -1;
     }
-
-
-
-
 
 }
