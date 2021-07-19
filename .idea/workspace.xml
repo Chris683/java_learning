@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="216ee4c6-270f-4d50-a3ad-5befc4507b60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/algorithmsbook/euclideanAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/faceobject2/encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/faceobject2/inherit1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/faceobject2/inherit2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject2/polymorphism1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/ThisSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/ThisSuper2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/abstract1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/final1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/junit1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/object1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/object2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/object3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/packageimport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/static1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/faceobject3/wrapper1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/src/Search/DichotomousSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Search/DichotomousSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/faceobject2/inherit1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/faceobject2/inherit1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,40 +33,40 @@
     <session id="890718261">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="15" />
           <entry key="project.open.time.5" value="13" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
           <entry key="iml" value="2" />
-          <entry key="java" value="198" />
+          <entry key="java" value="213" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="198" />
+          <entry key="JAVA" value="213" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
           <entry key="ft" value="79" />
-          <entry key="java" value="11059" />
-          <entry key="txt" value="192" />
+          <entry key="java" value="11252" />
+          <entry key="txt" value="201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11059" />
-          <entry key="PLAIN_TEXT" value="195" />
+          <entry key="JAVA" value="11252" />
+          <entry key="PLAIN_TEXT" value="204" />
           <entry key="VTL" value="79" />
         </counts>
       </usages-collector>
@@ -65,129 +75,80 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Constructor2.java">
+        <entry file="file://$PROJECT_DIR$/java/src/faceobject3/junit1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="38" column="1" selection-start-line="16" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="1100">
+              <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Block1.java">
+        <entry file="file://$PROJECT_DIR$/java/src/faceobject3/wrapper1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+            <state relative-caret-position="349">
+              <caret line="133" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="140" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Block2.java">
+        <entry file="file://$PROJECT_DIR$/java/src/faceobject3/static1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Block3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/FaceObject/InnerClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/algorithmsbook/euclideanAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/Search/DichotomousSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            <state relative-caret-position="415">
+              <caret line="51" column="42" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="42" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2289#2290#0" expanded="true" />
+                <element signature="e#2357#2358#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/faceobject2/encapsulation.java">
+        <entry file="file://$PROJECT_DIR$/java/src/faceobject3/final1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+            <state relative-caret-position="1221">
+              <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
               <folding>
-                <element signature="e#1482#1483#0" expanded="true" />
-                <element signature="e#1509#1510#0" expanded="true" />
-                <element signature="e#1534#1535#0" expanded="true" />
-                <element signature="e#1576#1577#0" expanded="true" />
-                <element signature="e#1601#1602#0" expanded="true" />
-                <element signature="e#1691#1692#0" expanded="true" />
-                <element signature="e#1743#1744#0" expanded="true" />
-                <element signature="e#1769#1770#0" expanded="true" />
-                <element signature="e#1800#1801#0" expanded="true" />
-                <element signature="e#1823#1824#0" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/faceobject2/inherit1.java">
+        <entry file="file://$PROJECT_DIR$/java/src/faceobject3/abstract1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1895">
-              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+            <state relative-caret-position="-187">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
-                <element signature="e#1660#1661#0" expanded="true" />
-                <element signature="e#1700#1701#0" expanded="true" />
-                <element signature="e#1727#1728#0" expanded="true" />
-                <element signature="e#1753#1754#0" expanded="true" />
-                <element signature="e#1788#1789#0" expanded="true" />
-                <element signature="e#1818#1819#0" expanded="true" />
-                <element signature="e#1874#1875#0" expanded="true" />
-                <element signature="e#1914#1915#0" expanded="true" />
-                <element signature="e#2330#2331#0" expanded="true" />
-                <element signature="e#2370#2371#0" expanded="true" />
-                <element signature="e#2395#2396#0" expanded="true" />
-                <element signature="e#2466#2467#0" expanded="true" />
+                <element signature="e#997#998#0" expanded="true" />
+                <element signature="e#1038#1039#0" expanded="true" />
+                <element signature="e#1116#1117#0" expanded="true" />
+                <element signature="e#1147#1148#0" expanded="true" />
+                <element signature="e#1199#1200#0" expanded="true" />
+                <element signature="e#1247#1248#0" expanded="true" />
+                <element signature="e#1289#1290#0" expanded="true" />
+                <element signature="e#1343#1344#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/faceobject2/inherit2.java">
+        <entry file="file://$PROJECT_DIR$/java/src/faceobject3/interface1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+            <state relative-caret-position="2090">
+              <caret line="95" column="61" selection-start-line="95" selection-start-column="61" selection-end-line="95" selection-end-column="61" />
               <folding>
-                <element signature="e#929#930#0" expanded="true" />
-                <element signature="e#952#953#0" expanded="true" />
-                <element signature="e#1023#1024#0" expanded="true" />
-                <element signature="e#1047#1048#0" expanded="true" />
-                <element signature="e#1125#1126#0" expanded="true" />
-                <element signature="e#1152#1153#0" expanded="true" />
-                <element signature="e#1205#1206#0" expanded="true" />
-                <element signature="e#1229#1230#0" expanded="true" />
+                <element signature="e#1374#1375#0" expanded="true" />
+                <element signature="e#1418#1419#0" expanded="true" />
+                <element signature="e#1458#1459#0" expanded="true" />
+                <element signature="e#1503#1504#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -199,6 +160,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -212,20 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java基础/src/offer/offer03.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/offer/offer11.java" />
-        <option value="$PROJECT_DIR$/java基础/src/offer/offer11.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/offer/offer14.java" />
-        <option value="$PROJECT_DIR$/java基础/src/offer/offer14.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/offer/offer17.java" />
-        <option value="$PROJECT_DIR$/java基础/src/offer/offer17.java" />
-        <option value="$PROJECT_DIR$/java基础/src/basicgrammar/grammar.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/sort/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/algorithmquestions/CaiPiaoNumber.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/algorithmquestions/RectangleTest1.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/algorithmquestions/YangHuiSanJiiao.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/algorithmquestions/LotteryNumbers.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/algorithmquestions/RoundNumber.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/algorithmquestions/YangHuiTriangle.java" />
@@ -261,8 +209,22 @@
         <option value="$PROJECT_DIR$/Algorithm/src/algorithmsbook/euclideanAlgorithm.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Search/DichotomousSearch.java" />
         <option value="$PROJECT_DIR$/java/src/faceobject2/encapsulation.java" />
-        <option value="$PROJECT_DIR$/java/src/faceobject2/inherit1.java" />
         <option value="$PROJECT_DIR$/java/src/faceobject2/inherit2.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject2/polymorphism1.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/ThisSuper.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/ThisSuper2.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/packageimport.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/object1.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/object2.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/object3.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/WrapperTestTest.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject2/inherit1.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/junit1.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/wrapper1.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/static1.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/final1.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/abstract1.java" />
+        <option value="$PROJECT_DIR$/java/src/faceobject3/interface1.java" />
       </list>
     </option>
   </component>
@@ -292,7 +254,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -311,31 +272,34 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="faceobject2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626359203860" />
-    <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626667830687" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="faceobject3" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithmquestions" />
       <recent name="Search" />
@@ -356,13 +320,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExtendsTest">
-    <configuration name="DichotomousSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.DichotomousSearch" />
-      <module name="Algorithm" />
+  <component name="RunManager" selected="Application.FinalTest">
+    <configuration name="FinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="faceobject3.FinalTest" />
+      <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Search.*" />
+          <option name="PATTERN" value="faceobject3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,8 +334,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtendsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="faceobject2.ExtendsTest" />
+    <configuration name="PersonTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="faceobject3.PersonTest" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="faceobject3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="faceobject2.PersonTest" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -383,12 +360,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FaceObject.InnerClassTest" />
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="faceobject3.StaticTest" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FaceObject.*" />
+          <option name="PATTERN" value="faceobject3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -396,25 +373,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Son" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FaceObject.Son" />
+    <configuration name="WrapperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="faceobject3.WrapperTest" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FaceObject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="euclideanAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithmsbook.euclideanAlgorithm" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithmsbook.*" />
+          <option name="PATTERN" value="faceobject3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,19 +387,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Son" />
-      <item itemvalue="Application.InnerClassTest" />
-      <item itemvalue="Application.euclideanAlgorithm" />
-      <item itemvalue="Application.DichotomousSearch" />
-      <item itemvalue="Application.ExtendsTest" />
+      <item itemvalue="Application.PersonTest" />
+      <item itemvalue="Application.PersonTest (1)" />
+      <item itemvalue="Application.WrapperTest" />
+      <item itemvalue="Application.StaticTest" />
+      <item itemvalue="Application.FinalTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExtendsTest" />
-        <item itemvalue="Application.DichotomousSearch" />
-        <item itemvalue="Application.euclideanAlgorithm" />
-        <item itemvalue="Application.InnerClassTest" />
-        <item itemvalue="Application.Son" />
+        <item itemvalue="Application.FinalTest" />
+        <item itemvalue="Application.StaticTest" />
+        <item itemvalue="Application.WrapperTest" />
+        <item itemvalue="Application.PersonTest (1)" />
+        <item itemvalue="Application.PersonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +444,9 @@
       <workItem from="1625640742946" duration="1435000" />
       <workItem from="1626080218853" duration="4706000" />
       <workItem from="1626250757509" duration="9530000" />
-      <workItem from="1626353084346" duration="5404000" />
+      <workItem from="1626353084346" duration="5433000" />
+      <workItem from="1626399547668" duration="8634000" />
+      <workItem from="1626659080851" duration="6781000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1623065564937</created>
@@ -650,7 +616,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626268769576</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="面对对象之特性">
+      <created>1626359929261</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1626359929261</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -662,13 +635,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166917000" />
+    <option name="totallyTimeSpent" value="182361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="1041" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19603127" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20084186" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -677,7 +649,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49969932" visible="true" weight="0.23295455" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49969932" weight="0.2693182" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -686,7 +658,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49729404" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50270593" side_tool="true" weight="0.25227273" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3284091" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3284091" />
+      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -755,65 +728,10 @@
     <MESSAGE value="project02" />
     <MESSAGE value="面对对象" />
     <MESSAGE value="面对对象之构造" />
-    <option name="LAST_COMMIT_MESSAGE" value="面对对象之构造" />
+    <MESSAGE value="面对对象之特性" />
+    <option name="LAST_COMMIT_MESSAGE" value="面对对象之特性" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/SelectionSort.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/sort/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/DichotomousSearch.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/algorithmquestions/CaiPiaoNumber.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/algorithmquestions/RectangleTest1.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/algorithmquestions/YangHuiSanJiiao.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Search/DicmousSearch.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/offer/gh.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/offer/Offer17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/offer/Offer05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/offer/Offer04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/algorithmquestions/YangHuiTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/src/algorithmquestions/RoundNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-110">
@@ -963,16 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-220">
           <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="31" />
-          <folding>
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -997,6 +905,8 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/algorithmsbook.java" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/algorithmsbook/gcd.java" />
     <entry file="file://$PROJECT_DIR$/java/src/FaceObject/Constructor2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -1025,20 +935,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/algorithmsbook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/algorithmsbook/gcd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/FaceObject/InnerClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1055,67 +951,168 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/src/Search/DichotomousSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
+        <state relative-caret-position="880">
           <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/faceobject2/encapsulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-          <folding>
-            <element signature="e#1482#1483#0" expanded="true" />
-            <element signature="e#1509#1510#0" expanded="true" />
-            <element signature="e#1534#1535#0" expanded="true" />
-            <element signature="e#1576#1577#0" expanded="true" />
-            <element signature="e#1601#1602#0" expanded="true" />
-            <element signature="e#1691#1692#0" expanded="true" />
-            <element signature="e#1743#1744#0" expanded="true" />
-            <element signature="e#1769#1770#0" expanded="true" />
-            <element signature="e#1800#1801#0" expanded="true" />
-            <element signature="e#1823#1824#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/faceobject2/inherit1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1895">
-          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
-          <folding>
-            <element signature="e#1660#1661#0" expanded="true" />
-            <element signature="e#1700#1701#0" expanded="true" />
-            <element signature="e#1727#1728#0" expanded="true" />
-            <element signature="e#1753#1754#0" expanded="true" />
-            <element signature="e#1788#1789#0" expanded="true" />
-            <element signature="e#1818#1819#0" expanded="true" />
-            <element signature="e#1874#1875#0" expanded="true" />
-            <element signature="e#1914#1915#0" expanded="true" />
-            <element signature="e#2330#2331#0" expanded="true" />
-            <element signature="e#2370#2371#0" expanded="true" />
-            <element signature="e#2395#2396#0" expanded="true" />
-            <element signature="e#2466#2467#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="726">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/faceobject2/inherit2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        <state relative-caret-position="714">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
           <folding>
-            <element signature="e#929#930#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1047#1048#0" expanded="true" />
             <element signature="e#1125#1126#0" expanded="true" />
             <element signature="e#1152#1153#0" expanded="true" />
-            <element signature="e#1205#1206#0" expanded="true" />
-            <element signature="e#1229#1230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/WrapperTestTest.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/object1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/object2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/object3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject2/polymorphism1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/packageimport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/ThisSuper2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#1639#1640#0" expanded="true" />
+            <element signature="e#1662#1663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/ThisSuper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject2/inherit1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#1630#1631#0" expanded="true" />
+            <element signature="e#1670#1671#0" expanded="true" />
+            <element signature="e#1697#1698#0" expanded="true" />
+            <element signature="e#1723#1724#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
+            <element signature="e#1788#1789#0" expanded="true" />
+            <element signature="e#1837#1838#0" expanded="true" />
+            <element signature="e#1877#1878#0" expanded="true" />
+            <element signature="e#2293#2294#0" expanded="true" />
+            <element signature="e#2333#2334#0" expanded="true" />
+            <element signature="e#2358#2359#0" expanded="true" />
+            <element signature="e#2429#2430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/junit1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/wrapper1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="133" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="140" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/static1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="51" column="42" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="42" />
+          <folding>
+            <element signature="e#2289#2290#0" expanded="true" />
+            <element signature="e#2357#2358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/final1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1221">
+          <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+          <folding>
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/abstract1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1199#1200#0" expanded="true" />
+            <element signature="e#1247#1248#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
+            <element signature="e#1343#1344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/faceobject3/interface1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="95" column="61" selection-start-line="95" selection-start-column="61" selection-end-line="95" selection-end-column="61" />
+          <folding>
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1418#1419#0" expanded="true" />
+            <element signature="e#1458#1459#0" expanded="true" />
+            <element signature="e#1503#1504#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1172,12 +1169,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java基础</last-edited>
+          <last-edited>java</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
