@@ -36,6 +36,8 @@ public class DataType {
         System.out.println(l);
         char c = '中';                         //字符常量是用单引号(‘’)括起来的单个字符
         System.out.println(c);
+        int a = '1';
+        System.out.println(a);
         //byte b2 = 200; 该行会出现编译错误，因为200是int型，变量赋予超出其范围的值
         //char 只能存放一个字符，超过一个字符就会产生编译错误
         //char c2 = '中国'; 报错
