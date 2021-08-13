@@ -19,13 +19,14 @@ public class QuickSort {
     private static void quickSort(int[] data, int start, int end) {
         if (start>end)                                                 // 输入错误返回
             return;
+        int dat = data[start];
         int low = start;
         int high = end;
         while(low<high){
-            while (data[start] < data[high] && low < high){               // data[start]表示基准位
+            while (dat <= data[high] && low < high){               // data[start]表示基准位
                 high--;
             }
-            while (data[start] > data[low] && low < high){
+            while (dat>= data[low] && low < high){
                 low++;
             }
             if (low<high)
@@ -37,7 +38,7 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int[] arr = new int[]{5,6,0,9,8,7,4,3,2,1};
+        int[] arr = new int[]{5,4,0,9,8,7,4,4,2,1};
         quickSort(arr,0, arr.length-1);
         for (int i = 0; i <arr.length ; i++) {
             System.out.print(arr[i] + " ");
