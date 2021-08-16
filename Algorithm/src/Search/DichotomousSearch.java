@@ -16,7 +16,8 @@ public class DichotomousSearch {
         System.out.println("请输入要查找的数：");
         int number = scan.nextInt();
         Arrays.sort(arr);
-        rank(number,arr);
+        int a = rank(number,arr);
+        System.out.println(a);
 
     }
     public static int rank(int number,int[] arr){
@@ -29,7 +30,7 @@ public class DichotomousSearch {
             if (number == arr[mid]){
                 System.out.println("找到指定的元素，位置在："+ mid);
                 isFlag = false;
-                break;
+                return mid;
             }else if(number<arr[mid]){
                 end = mid-1;
             }else{
@@ -38,6 +39,7 @@ public class DichotomousSearch {
         }
         if (isFlag){
             System.out.println("没有找到指定元素");
+
         }
         return -1;
     }

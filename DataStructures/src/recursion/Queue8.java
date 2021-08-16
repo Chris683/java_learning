@@ -71,5 +71,7 @@ public class Queue8 {
             System.out.print(array[i] + " ");
         }
         System.out.println();
+
     }
 }
+
