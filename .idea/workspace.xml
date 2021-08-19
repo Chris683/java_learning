@@ -2,10 +2,211 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="216ee4c6-270f-4d50-a3ad-5befc4507b60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/algorithm/DijkstraAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/algorithm/FloydAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/algorithm/GreedyAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/algorithm/PrimAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/Search/DichotomousSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/algorithmquestions/LotteryNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/algorithmquestions/RoundNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/algorithmquestions/YangHuiTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/algorithmsbook/euclideanAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/Leetcode01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/offer/Offer03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/offer/Offer04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/offer/Offer05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/offer/Offer10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/offer/Offer11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/offer/Offer14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/offer/Offer17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/DijkstraAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/FloydAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/Graph2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/GreedyAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/Hanoitower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/KMPAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/KnapsackProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/MGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/MinTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/PrimAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/ViolenceMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/algorithm/VisitedVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/graph/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/hashtab/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/hashtab/EmpLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/hashtab/HashTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/hashtab/HashTabDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/linkedlist/Boy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/linkedlist/CircleSingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/linkedlist/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/linkedlist/DoubleLinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/linkedlist/HeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/linkedlist/HeroNode2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/linkedlist/Josepfu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/linkedlist/NodeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/linkedlist/SingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/linkedlist/SingleLinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/queue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/queue/ArrayQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/queue/CircleArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/queue/CircleArrayQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/recursion/MiGong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/recursion/Queue8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/recursion/RecursionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/search/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/search/FibonacciSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/search/InsertValueSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/search/SeqSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/sort/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/sort/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/sort/MergetSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/sort/RadixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/sort/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/sort/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/stack/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/stack/ArrayStack2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/stack/ArrayStackDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/stack/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/stack/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/stack/PolandNotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/AVLTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/AVLTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/ArrBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/ArrBinaryTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/BinarySortTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/BinarySortTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/BinaryTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/HeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/HeroNode1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/HuffmanCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/HuffmanTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/Node1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/Node2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/Node3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/ThreadedBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/tree/ThreadedBinaryTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project01/FamilyAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project01/Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project02/customerinformationmanagement/bean/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project02/customerinformationmanagement/service/CustomerList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project02/customerinformationmanagement/ui/CustomerView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project02/customerinformationmanagement/util/CMUtility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/AttributeOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/BlockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Customer1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/InnerClassTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Leaf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/LeafTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/MethodArgsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Methods1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Mid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Order1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/OrderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/OverLoadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Person1$Brain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Person1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Person2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Person3$1AA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Person3$1BB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Person3$1CC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Person3$Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Person3$Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Person3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/PersonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/PersonText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/RecursionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Root.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/ValueTransferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/ValueTransferTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/FaceObject/ValueTransferTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/basicgrammar/DataType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/basicgrammar/HelloWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/basicgrammar/InputAndOutput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/basicgrammar/ProcessControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/basicgrammar/ShuZu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/basicgrammar/TypeConversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/exceptions/ExceptionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/exceptions/ExceptionTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/exceptions/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/AnimalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/CheckAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/Creature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/ExtendsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/Man.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/Person5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/Person6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/PersonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject2/Woman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/AA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/AA1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/AbstractTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Attackable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/BB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/BB1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Bullet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/CC1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Chinese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Creature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Customer1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/EqualsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/FinalA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/FinalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Flyable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/JUnitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Kite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/ObjectTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Order1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Person1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Person4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/PersonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Plane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/StaticTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Student1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/Student4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/SuperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/ToStringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/faceobject3/WrapperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/CommunicationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/HelloThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/MThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/NumThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/NumberThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/NumberThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/ThreadMethodTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/ThreadNew.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/ThreadPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/ThreadTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/Window1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/Window2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/Window3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/Window4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/WindowTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/WindowTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/WindowTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/threads/WindowTest4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,11 +227,11 @@
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="18" />
-          <entry key="project.open.time.5" value="24" />
+          <entry key="project.open.time.5" value="25" />
           <entry key="project.open.time.6" value="9" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="56" />
+          <entry key="project.opened" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -173,8 +374,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataStructures/src/algorithm/FloydAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+            <state relative-caret-position="346">
+              <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -277,7 +478,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -312,6 +512,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -505,6 +706,7 @@
       <workItem from="1629203072676" duration="5175000" />
       <workItem from="1629250807314" duration="6476000" />
       <workItem from="1629346024620" duration="947000" />
+      <workItem from="1629347163607" duration="1533000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1623065564937</created>
@@ -737,7 +939,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629210156998</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="8.17">
+      <created>1629347264509</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1629347264509</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -749,7 +958,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="328946000" />
+    <option name="totallyTimeSpent" value="330479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -763,7 +972,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="1041" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19723392" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1996392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -779,7 +988,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32954547" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49669272" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49669272" visible="true" weight="0.18068182" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5033073" side_tool="true" weight="0.45795456" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3284091" />
       <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32954547" />
@@ -1188,8 +1397,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataStructures/src/algorithm/FloydAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        <state relative-caret-position="346">
+          <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
         </state>
       </provider>
     </entry>
