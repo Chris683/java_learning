@@ -57,5 +57,7 @@ public class DataType {
         System.out.println(b2);
         String str = "Hello Java";              //String不是基本数据类型，属于引用数据类型，字符串是用双引号(“”)括起来的
         System.out.println(str);
+
+
     }
 }
