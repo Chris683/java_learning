@@ -22,6 +22,8 @@ import java.util.Scanner;
 // 导入包 import java.util.Scanner
 // 实例化：Scanner scan = new Scanner(System.in);
 // 调用Scanner类的相关方法获取指定类型
+
+
 public class InputAndOutput {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
