@@ -1,14 +1,6 @@
 package basicgrammar;
 /*
 
-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
-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
-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
-
-
-
-
-
 
 * */
 /**
