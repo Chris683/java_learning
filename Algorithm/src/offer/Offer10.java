@@ -73,4 +73,12 @@ public class Offer10 {
         }
         return arr[n];
     }
+
+    public int numWays1(int n) {
+        if(n>=2){
+            return (numWays1(n-1)+numWays1(n-2))%1000000007;
+        }else{
+            return 1;
+        }
+    }
 }
