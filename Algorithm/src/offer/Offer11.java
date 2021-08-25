@@ -41,5 +41,26 @@ public class Offer11 {
         }
         return a;                            //返回最小值
     }
+
+    // 二分
+    public int minArray2(int[] numbers) {
+        if(numbers==null||numbers.length==0){
+            return -1;
+        }
+        int pre = 0;
+        int end = numbers.length-1;
+        int mid;
+        while(pre<end){
+            mid = (pre+end)/2;
+            if(numbers[mid] < numbers[end]){
+                end = mid;
+            }else if(numbers[mid] > numbers[end]) {
+                pre = mid+1;
+            }else{
+                end--;
+            }
+        }
+        return numbers[pre];
+    }
 }
 
