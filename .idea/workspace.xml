@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="216ee4c6-270f-4d50-a3ad-5befc4507b60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/CollectionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/ForTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/PropertiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/TreeMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/enumannotation/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/enumannotation/MyAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/enumannotation/SeasonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/enumannotation/SeasonTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/BufferedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/FileInputOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/FileReaderWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/FilesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/InputStreamReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/ObjectInputOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/OtherStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/PathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/RandomAccessFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/beauty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/dbcp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/object.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/io/爱情与友情.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/stringclass/JDK8DateTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/stringclass/StringBufferBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/stringclass/StringMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/stringclass/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/stringclass/StringTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tcpudp/InetAddressTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tcpudp/TCPTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tcpudp/TCPTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tcpudp/TCPTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tcpudp/UDPTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tcpudp/URLTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tcpudp/URLTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tcpudp/beauty.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/src/offer/ClassificationDescribe" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/offer/ClassificationDescribe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java/basicgrammar/DataType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/basicgrammar/DataType.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java/basicgrammar/InputAndOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/basicgrammar/InputAndOutput.class" afterDir="false" />
     </list>
@@ -68,7 +20,7 @@
     <session id="890718261">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="67" />
+          <entry key="project.closed" value="68" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="25" />
@@ -107,14 +59,14 @@
           <entry key="ft" value="79" />
           <entry key="java" value="20214" />
           <entry key="md" value="10" />
-          <entry key="txt" value="270" />
+          <entry key="txt" value="271" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="20214" />
           <entry key="Markdown" value="10" />
-          <entry key="PLAIN_TEXT" value="949" />
+          <entry key="PLAIN_TEXT" value="950" />
           <entry key="VTL" value="79" />
         </counts>
       </usages-collector>
@@ -376,11 +328,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629989076323" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629989330241" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="E:/3 编程学习资料/尚硅谷java/4_代码/第2部分：Java高级编程/JavaSenior" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -598,7 +550,7 @@
       <workItem from="1629620075244" duration="2067000" />
       <workItem from="1629858345658" duration="13583000" />
       <workItem from="1629898810449" duration="1903000" />
-      <workItem from="1629941805591" duration="4171000" />
+      <workItem from="1629941805591" duration="4192000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1623065564937</created>
@@ -894,7 +846,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629897035167</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="8.26">
+      <created>1629989350862</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1629989350862</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -918,7 +877,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="377100000" />
+    <option name="totallyTimeSpent" value="377121000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -971,7 +930,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="offer03" />
     <MESSAGE value="huixingshu" />
     <MESSAGE value="offer04" />
     <MESSAGE value="offer05" />
@@ -996,7 +954,8 @@
     <MESSAGE value="8.21" />
     <MESSAGE value="8.22" />
     <MESSAGE value="8.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.25" />
+    <MESSAGE value="8.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.26" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/java/src/stringclass/StringTest.java">
