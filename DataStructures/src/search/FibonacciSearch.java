@@ -11,14 +11,14 @@ public class FibonacciSearch {
     public static void main(String[] args) {
         int [] arr = {1,8, 10, 89, 1000, 1234};
 
-        System.out.println("index=" + fibSearch(arr, 189));// 0
+        System.out.println("index=" + fibSearch(arr, 89));// 0
 
     }
 
     //因为后面我们mid=low+F(k-1)-1，需要使用到斐波那契数列，因此我们需要先获取到一个斐波那契数列
     //非递归方法得到一个斐波那契数列
-    public static int[] fib(){
-        int[] f = new int[20];
+    public static int[] fib(int n){
+        int[] f = new int[n];
         f[0] = 1;
         f[1] = 1;
         for (int i=2;i<20;i++){
@@ -40,7 +40,7 @@ public class FibonacciSearch {
         int high = a.length-1;
         int k = 0;
         int mid;
-        int[] f = fib();
+        int[] f = fib(20);
          // 获取对应的斐波那契数值
         while (high>f[k]-1){
             k++;

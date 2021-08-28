@@ -63,7 +63,7 @@ public class InsertValueSearch {
         }
 
         // 求出mid, 自适应
-        int mid = left + (right - left) * (findVal - arr[left]) / (arr[right] - arr[left]);
+        int mid = left + (right - left) * (findVal - arr[left]) / (arr[right] - arr[left]);//关键所在
         int midVal = arr[mid];
         if (findVal > midVal) { // 说明应该向右边递归
             return insertValueSearch(arr, mid + 1, right, findVal);

@@ -37,14 +37,14 @@ public class BinarySearch {
      */
     // 递归方法
     public static int binarySearch(int[] arr, int left, int right, int findVal){
-        if (left>right){
+        if (left>right){ //结束条件
             return -1;
         }
-        int mid = (left+right)/2;
+        int mid = (left+right)/2;   //取中
         int midVal = arr[mid];
-        if (midVal>findVal){
+        if (midVal>findVal){        // 左边递归
             return binarySearch(arr,left,mid-1,findVal);
-        }else if (midVal<findVal){
+        }else if (midVal<findVal){   // 右边递归
             return binarySearch(arr,mid+1,right,findVal);
         }else {
             return mid;
@@ -54,17 +54,17 @@ public class BinarySearch {
 
     // 非递归方法
     public static int binarySearch2(int[] arr, int findVal){
-        int head = 0;
-        int end = arr.length-1;
-        int mid;
-        while (head<=end){
-            mid = (head+end)/2;
-            if (arr[mid] == findVal){
+        int head = 0;  // 头
+        int end = arr.length-1;//尾
+        int mid; //中间
+        while (head<=end){//结束条件
+            mid = (head+end)/2; //取中
+            if (arr[mid] == findVal){//找到
                 return mid;
-            }else if(arr[mid]>findVal){
-                end =mid-1;
+            }else if(arr[mid]>findVal){//在数组左边
+                end =mid-1;              //另尾等于mid-1
             }else {
-                head = mid+1;
+                head = mid+1;//在数组右边，另尾等于mid+1
             }
         }
         return -1;

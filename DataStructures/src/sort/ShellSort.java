@@ -39,8 +39,8 @@ public class ShellSort {
 
     public static void shellSort(int[] arr){
         int temp;
-        for (int i = arr.length/2; i >0 ; i/=2) {
-            for (int j = i; j <arr.length ; j++) {
+        for (int i = arr.length/2; i >0 ; i/=2) {// 希尔排序的关键
+            for (int j = i; j <arr.length ; j++) {//下面就是插入了
                 for (int k = j-i; k >=0 ; k-=i) {
                     if(arr[k]>arr[k+i]){
                         temp = arr[k];
@@ -54,12 +54,14 @@ public class ShellSort {
         }
     }
 
+
+    // 优化
     public static void shellSort2(int[] arr){
         int temp;
-        for (int i = arr.length/2; i >0 ; i/=2) {
-            for (int j = i; j <arr.length ; j++) {
+        for (int i = arr.length/2; i >0 ; i/=2) {// 希尔排序的灵魂
+            for (int j = i; j <arr.length ; j++) {// 下面类似如插入排序
                 int k = j-i;
-                while (k>=0&&(arr[k]>arr[k+i])){
+                while (k>=0&&(arr[k]>arr[k+i])){  //这里注意是k和k+1
                     temp = arr[k];
                     arr[k] = arr[k+i];
                     arr[k+i] = temp;

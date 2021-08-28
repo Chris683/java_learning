@@ -15,8 +15,8 @@ public class HeapSort {
         //要求将数组进行升序排序
         //int arr[] = {4, 6, 8, 5, 9};
         // 创建要给80000个的随机的数组
-        int[] arr = new int[8];
-        for (int i = 0; i < 8; i++) {
+        int[] arr = new int[20];
+        for (int i = 0; i < 20; i++) {
             arr[i] = (int) (Math.random() * 80); // 生成一个[0, 8000000) 数
         }
 
@@ -51,10 +51,11 @@ public class HeapSort {
         for(int i = arr.length / 2 -1; i >=0; i--) {
             adjustHeap(arr, i, arr.length);
         }
+//       adjustHeap(arr, 0, arr.length);
 
 		/*
-		2).将堆顶元素与末尾元素交换，将最大元素"沉"到数组末端;
-　　		3).重新调整结构，使其满足堆定义，然后继续交换堆顶元素与当前末尾元素，反复执行调整+交换步骤，直到整个序列有序。
+		 * 2).将堆顶元素与末尾元素交换，将最大元素"沉"到数组末端;
+　　			3).重新调整结构，使其满足堆定义，然后继续交换堆顶元素与当前末尾元素，反复执行调整+交换步骤，直到整个序列有序。
 		 */
         for(int j = arr.length-1;j >0; j--) {
             //交换
@@ -94,8 +95,10 @@ public class HeapSort {
                 break;//!
             }
         }
-
+        //当for 循环结束后，我们已经将以i 为父结点的树的最大值，放在了 最顶(局部)
+        arr[i] = temp;//将temp值放到调整后的位置
     }
 
 }
+
 

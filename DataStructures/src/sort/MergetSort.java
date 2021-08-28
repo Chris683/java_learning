@@ -17,9 +17,9 @@ public class MergetSort {
 
         //测试快排的执行速度
         // 创建要给80000个的随机的数组
-        int[] arr = new int[8000000];
-        for (int i = 0; i < 8000000; i++) {
-            arr[i] = (int) (Math.random() * 8000000); // 生成一个[0, 8000000) 数
+        int[] arr = new int[800];
+        for (int i = 0; i < 800; i++) {
+            arr[i] = (int) (Math.random() * 800); // 生成一个[0, 8000000) 数
         }
         System.out.println("排序前");
         Date data1 = new Date();
@@ -34,7 +34,7 @@ public class MergetSort {
         String date2Str = simpleDateFormat.format(data2);
         System.out.println("排序前的时间是=" + date2Str);
 
-        //System.out.println("归并排序后=" + Arrays.toString(arr));
+        System.out.println("归并排序后=" + Arrays.toString(arr));
     }
 
 

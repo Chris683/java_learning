@@ -1,6 +1,7 @@
 package sort;
 
 import java.text.SimpleDateFormat;
+import java.util.Arrays;
 import java.util.Date;
 
 /**
@@ -14,9 +15,9 @@ public class QuickSort {
 
         //测试快排的执行速度
         // 创建要给80000个的随机的数组
-        int[] arr = new int[8000000];
-        for (int i = 0; i < 8000000; i++) {
-            arr[i] = (int) (Math.random() * 8000000); // 生成一个[0, 8000000) 数
+        int[] arr = new int[8000];
+        for (int i = 0; i < 8000; i++) {
+            arr[i] = (int) (Math.random() * 8000); // 生成一个[0, 8000000) 数
         }
 
         System.out.println("排序前");
@@ -30,7 +31,7 @@ public class QuickSort {
         Date data2 = new Date();
         String date2Str = simpleDateFormat.format(data2);
         System.out.println("排序前的时间是=" + date2Str);
-        //System.out.println("arr=" + Arrays.toString(arr));
+        System.out.println("arr=" + Arrays.toString(arr));
     }
 
 
@@ -89,30 +90,30 @@ public class QuickSort {
 
 //}
     public static void quickSort2(int[] arr,int left, int right){
-        if (left>right){
+        if (left>right){    // 结束条件
             return;
         }
         int low =left;
         int high = right;
-        int base = arr[left];
+        int base = arr[left];  //第一个位基准位
         int temp;
         while (low <high){
-            while (arr[high]>=base && low<high){
+            while (arr[high]>=base && low<high){///找到小于基准位的数
                 high--;
             }
-            while (arr[low]<=base && low<high){
+            while (arr[low]<=base && low<high){// 找到大于基准位的数
                 low++;
             }
-            if (low<high){
+            if (low<high){                     // 交换
                 temp = arr[high];
                 arr[high] = arr[low];
                 arr[low] = temp;
             }
         }
-        arr[left] = arr[low];
+        arr[left] = arr[low];                 // 交换基准位和中间值
         arr[low] = base;
-        quickSort2(arr,left,low-1);
-        quickSort2(arr,low+1,right);
+        quickSort2(arr,left,low-1);      //左边递归
+        quickSort2(arr,low+1,right);       // 右边递归
     }
 
 }

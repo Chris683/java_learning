@@ -1,6 +1,7 @@
 package sort;
 
 import java.text.SimpleDateFormat;
+import java.util.Arrays;
 import java.util.Date;
 
 /**
@@ -12,9 +13,9 @@ public class RadixSort {
         //int arr[] = { 53, 3, 542, 748, 14, 214};
 
         // 80000000 * 11 * 4 / 1024 / 1024 / 1024 =3.3G
-		int[] arr = new int[8000000];
-		for (int i = 0; i < 8000000; i++) {
-			arr[i] = (int) (Math.random() * 8000000); // 生成一个[0, 8000000) 数
+		int[] arr = new int[800];
+		for (int i = 0; i < 800; i++) {
+			arr[i] = (int) (Math.random() * 800); // 生成一个[0, 8000000) 数
 		}
         System.out.println("排序前");
         Date data1 = new Date();
@@ -28,7 +29,7 @@ public class RadixSort {
         String date2Str = simpleDateFormat.format(data2);
         System.out.println("排序前的时间是=" + date2Str);
 
-        //System.out.println("基数排序后 " + Arrays.toString(arr));
+        System.out.println("基数排序后 " + Arrays.toString(arr));
 
     }
 
