@@ -35,7 +35,7 @@ class WrapperTest {
         int num2 = Integer.parseInt(str1);
         System.out.println(num2 + 1);
 
-        String str2 = "true1";
+        String str2 = "true";
         boolean b1 = Boolean.parseBoolean(str2);
         System.out.println(b1);
     }
@@ -69,7 +69,7 @@ class WrapperTest {
 
         //自动装箱：基本数据类型 --->包装类
         int num2 = 10;
-        Integer in1 = num2;//自动装箱
+        Integer in1 = 20;//自动装箱
 
         boolean b1 = true;
         Boolean b2 = b1;//自动装箱

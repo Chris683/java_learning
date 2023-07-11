@@ -22,6 +22,11 @@ public class StringTest {
         String s1 = "javaEEhadoop";
         String s2 = "javaEE";
         String s3 = s2 + "hadoop";
+        String a = "340300";
+        String b = "3403";
+        System.out.println(a.substring(0,4).equals(b.substring(0,2))||a.substring(0,4).equals("34"));
+
+        System.out.println("******");
         System.out.println(s1 == s3);//false
 
         final String s4 = "javaEE";//s4:常量

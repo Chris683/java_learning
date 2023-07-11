@@ -33,6 +33,9 @@ class AbstractTest {
         //一旦Person类抽象了，就不可实例化
 //		Person p1 = new Person();
 //		p1.eat();
+        Creature p =new Student4();
+        p.breath();
+        ((Student4) p).eat();
 
     }
 }

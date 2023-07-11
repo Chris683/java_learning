@@ -179,6 +179,8 @@ List subList(int fromIndex, int toIndex):返回从fromIndex到toIndex位置的�
         //Object get(int index):获取指定index位置的元素
         System.out.println(list.get(0));
 
+        System.out.println(list);
+
     }
 
 

@@ -6,9 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures/DataStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project01/Project01.iml" filepath="$PROJECT_DIR$/Project01/Project01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project02/Project02.iml" filepath="$PROJECT_DIR$/Project02/Project02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designmodes/designmodes.iml" filepath="$PROJECT_DIR$/designmodes/designmodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/javalearning.iml" filepath="$PROJECT_DIR$/javalearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/javaweb.iml" filepath="$PROJECT_DIR$/javaweb/javaweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm/jvm.iml" filepath="$PROJECT_DIR$/jvm/jvm.iml" />
     </modules>
   </component>
 </project>

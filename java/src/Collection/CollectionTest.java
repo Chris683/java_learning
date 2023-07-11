@@ -34,8 +34,10 @@ public class CollectionTest {
         System.out.println(contains);//true
         System.out.println(coll.contains(new String("Tom")));//true
 //        System.out.println(coll.contains(p));//true
+        System.out.println();
         System.out.println(coll.contains(new Person("Jerry",20)));//false -->true
 
+        System.out.println();
         //2.containsAll(Collection coll1):判断形参coll1中的所有元素是否都存在于当前集合中。
         Collection coll1 = Arrays.asList(123,4567);
         System.out.println(coll.containsAll(coll1));
@@ -54,6 +56,8 @@ public class CollectionTest {
         coll.remove(1234);
         System.out.println(coll);
 
+        System.out.println();
+
         coll.remove(new Person("Jerry",20));
         System.out.println(coll);
 
@@ -64,6 +68,8 @@ public class CollectionTest {
 
 
     }
+
+
 
     @Test
     public void test3(){

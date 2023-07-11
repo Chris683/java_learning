@@ -27,6 +27,8 @@ public class ProcessControl {
             System.out.println("不及格");
         }
 
+
+
         int day = 4;
 
         //switch

@@ -40,6 +40,7 @@ public class InputStreamReaderTest {
     public void test1() throws IOException {
 
         FileInputStream fis = new FileInputStream("dbcp.txt");
+
 //        InputStreamReader isr = new InputStreamReader(fis);//使用系统默认的字符集
         //参数2指明了字符集，具体使用哪个字符集，取决于文件dbcp.txt保存时使用的字符集
         InputStreamReader isr = new InputStreamReader(fis,"UTF-8");//使用系统默认的字符集

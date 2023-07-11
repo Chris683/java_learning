@@ -2,6 +2,7 @@ package basicgrammar;
 
 import java.util.Scanner;
 
+
 /**
  * @author Chris
  * @create 2021-07-01-22:37
@@ -31,6 +32,7 @@ public class InputAndOutput {
         System.out.println("姓名：");
         String name = scan.next();
         System.out.println(name);
+
 
         System.out.println("年龄");
         int age =scan.nextInt();

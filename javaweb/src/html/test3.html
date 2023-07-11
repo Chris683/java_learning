@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--文本框  设置文本框的长度    初始值  有背景文字的文本框 -->
+<input type="text">
+<br/>
+<input type="text" size="10">
+<br/>
+<input type="text" value="有初始值的文本框">
+<br/>
+<input type="text" placeholder="请输入账号">
+<br/>
+
+<!--密码框,输入的数据会自动显示为星号 -->
+<input type="password">
+
+<!--表单-->
+<form action="https://how2j.cn/study/login.jsp">
+    账号：<input type="text" name="name"> <br/>
+    密码：<input type="password" name="password" > <br/>
+    <input type="submit" value="登陆">
+</form>
+
+<!--单选框 -->
+单选1 <input type="radio" >
+<br/>
+单选2 <input type="radio" >
+<br/>
+默认选中 <input type="radio" checked="checked" >
+<br/>
+
+<p>今天晚上做什么？</p>
+
+学习java<input type="radio" name="activity" value="学习java" > <br/>
+东京热<input type="radio"   name="activity" value="tokyohot" > <br/>
+dota<input type="radio" name="activity" value="dota" > <br/>
+LOL<input type="radio" name="activity"  value="lol"> <br/>
+
+<!-- 复选框 -->
+<p>今天晚上做什么？</p>
+
+学习java<input type="checkbox" value="学习java" > <br/>
+东京热<input type="checkbox" checked="checked"  name="activity" value="tokyohot" > <br/>
+dota<input type="checkbox" value="dota" > <br/>
+LOL<input type="checkbox" value="lol"> <br/>
+
+<!--下拉列表 -->
+<select >
+    <option >苍老师</option>
+    <option >高树玛利亚</option>
+    <option >遥美</option>
+</select>
+
+<select  size="2">
+    <option >苍老师</option>
+    <option >高树玛利亚</option>
+    <option >遥美</option>
+</select>
+<select size="3" multiple="multiple">
+    <option >苍老师</option>
+    <option >高树玛利亚</option>
+    <option >遥美</option>
+</select>
+<select size="3" multiple="multiple">
+    <option >苍老师</option>
+    <option selected="selected">高树玛利亚</option>
+    <option selected="selected">遥美</option>
+</select>
+
+<!--文本域 -->
+<textarea>abc
+def
+</textarea>
+<textarea cols="30" rows="8">123456789012345678901234567890
+1234567890
+1234567890
+1234567890
+1234567890
+1234567890
+1234567890
+1234567890</textarea>
+
+<!--普通按钮 -->
+<input type="button" value="一个按钮">
+普通按钮不能提交
+<form action="/study/login.jsp" method="get">
+    账号：<input type="text" name="name"> <br/>
+    密码：<input type="password" name="password" > <br/>
+    <input type="button" value="登陆">
+</form>
+
+<!--提交按钮 -->
+<form action="/study/login.jsp" method="get">
+    账号：<input type="text" name="name"> <br/>
+    密码：<input type="password" name="password" > <br/>
+    <input type="submit" value="登陆">
+</form>
+
+<!--重置按钮 -->
+<form action="/study/login.jsp">
+    账号：<input type="text" name="name"> <br/>
+    密码：<input type="password" name="password" > <br/>
+    <input type="submit" value="提交">
+    <input type="reset" value="重置">
+</form>
+
+<!--使用图像进行提交-->
+<form action="/study/login.jsp">
+    账号：<input type="text" name="name"> <br/>
+    密码：<input type="password" name="password" > <br/>
+    <input type="image" src="https://how2j.cn/example.gif">
+</form>
+
+<!--button里是文字 button里是图片 提交数据 -->
+<button>按钮</button>
+<button><img src="https://how2j.cn/example.gif"/></button>
+<form action="/study/login.jsp">
+    账号：<input type="text" name="name"> <br/>
+    密码：<input type="password" name="password" > <br/>
+
+    <button type="submit">登陆</button>
+
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+

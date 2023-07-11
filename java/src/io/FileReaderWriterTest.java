@@ -186,7 +186,17 @@ public class FileReaderWriterTest {
         try {
             //1.创建File类的对象，指明读入和写出的文件
             File srcFile = new File("hello.txt");
+            if(!srcFile.exists()){
+                //文件的创建
+                srcFile.createNewFile();
+                System.out.println("创建成功");
+            }
             File destFile = new File("hello2.txt");
+            if(!destFile.exists()){
+                //文件的创建
+                destFile.createNewFile();
+                System.out.println("创建成功");
+            }
 
             //不能使用字符流来处理图片等字节数据
 //            File srcFile = new File("爱情与友情.jpg");

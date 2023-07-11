@@ -10,7 +10,7 @@ class ShuZu{
         // 9.1 声明和初始化
         int[] num;                                    //声明
         num = new int[]{1,2,3,4,5,6,7};               //静态初始化
-        String[] names = new String[5];               //动态初始化
+        String[] names = new String[5];               //动态初始
 
         //9.2 赋值
         names[0] = "xiaoming";                        //赋值
